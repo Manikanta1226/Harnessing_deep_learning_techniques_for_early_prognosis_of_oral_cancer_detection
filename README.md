@@ -1,4 +1,4 @@
-# Harnessing_deep_learning_techniques_for_early_prognosis_of_oral_cancer_detection
+# Deep Learning for Early-Stage Oral Cancer Prognosis and Classification
 This repository presents a deep learning-based ensemble model that combines EfficientNetB3 and ResNet50 to detect Oral Squamous Cell Carcinoma (OSCC) from medical images. By using transfer learning, selective layer freezing, and dropout regularization, the model achieves superior accuracy and generalization — outperforming individual base models.
 
 📌 Introduction: 
